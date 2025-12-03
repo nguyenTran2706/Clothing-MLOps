@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+torch
+transformers
+datasets
+pillow
+opencv-python
+scikit-learn
+mlflow
+pyyaml
+python-dotenv
+watchdog
+pytest
